@@ -1,4 +1,4 @@
-### 👋 Hello World. I'm Andersinho!
+### Hello World. I'm Anderson Escalante!
 
 <p>
   <img src="https://i.pinimg.com/originals/c0/ba/7f/c0ba7f41799494d307099ebcbb50e51e.gif" align="right" width="25%"/>

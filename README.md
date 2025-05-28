@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hello World. I'm Andersinho!
 
-<!--
-**Anderson2522/Anderson2522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="./https://i.pinimg.com/originals/c0/ba/7f/c0ba7f41799494d307099ebcbb50e51e.gif" align="right" width="15%"/>
 
-Here are some ideas to get you started:
+  <samp>
+    <br>💻 Soy un desarrollador web y creador de contenido digital.
+    <br>🚀 Actualmente estoy aprendiendo <strong>programación</strong>.
+    <br>🌐 Me apasiona el desarrollo de aplicaciones web.
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <samp>
+    🛠️ Tecnologías que uso o estoy aprendiendo:
+    <br><br>
+    #HTML &nbsp; #CSS &nbsp; #Git &nbsp; #Java SE &nbsp; #SQL &nbsp; #Bash &nbsp; #Linux
+  </samp>
+</p>

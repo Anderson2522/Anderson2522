@@ -1,7 +1,7 @@
 ### Hello World. I'm Anderson Escalante!
 
 <p>
-  <img src="https://media1.giphy.com/media/Yw6V9HA4Q1ceQ/source.gif" align="right" width="25%"/>
+  <img src="https://i.redd.it/x9tfayavrh781.gif" align="right" width="25%"/>
 
   <samp>
     <br>💻 Estoy aprendiendo a programar en JAVA, HTML, CSS, SQL.
